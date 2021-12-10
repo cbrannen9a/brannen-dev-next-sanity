@@ -1,1 +1,1 @@
-# brannen-dev-next-sanity
+# brannen-dev-next-studio
