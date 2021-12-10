@@ -1,11 +1,5 @@
 export default {
   widgets: [
-    {
-      name: "sanity-tutorials",
-      options: {
-        templateRepoId: "sanity-io/sanity-template-nextjs-landing-pages",
-      },
-    },
     { name: "structure-menu" },
     {
       name: "project-info",
@@ -36,7 +30,7 @@ export default {
         data: [
           {
             title: "GitHub repo",
-            value: "https://github.com/cbrannen9a/brannen-dev-next",
+            value: "https://github.com/cbrannen9a/brannen-dev-next-sanity",
             category: "Code",
           },
           {
